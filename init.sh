@@ -10,4 +10,3 @@ cd /home/data/rails
 bundle install --path=vendor/bundle
 
 rake db:create
-rails s -b 0.0.0.0
